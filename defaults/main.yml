@@ -1,0 +1,8 @@
+---
+mas_email: ""
+mas_password: ""
+
+mas_installed_app_ids:
+  - 497799835 # Xcode (8.1)
+
+mas_upgrade_all_apps: no
